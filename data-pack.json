@@ -1,8 +1,8 @@
 {
-    "version":  179,
-    "minAppVersionCode":  126,
-    "size":  1595686,
-    "sha256":  "6d75bda2ac986cb2014366b1b3bc1688db6045f1e20888e037199a1c9fdd7264",
-    "url":  "https://github.com/zhenlin147/GalCalendar/releases/download/v5.46.3/data-pack.zip",
-    "notes":  "Azurite 39 位角色补 VNDB 角色 ID，头像补充可检索"
+ "version": 179,
+ "minAppVersionCode": 126,
+ "size": 1595686,
+ "sha256": "6d75bda2ac986cb2014366b1b3bc1688db6045f1e20888e037199a1c9fdd7264",
+ "url": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.46.4/data-pack.zip",
+ "notes": "Azurite 39 位角色补 VNDB 角色 ID，头像补充可检索"
 }
