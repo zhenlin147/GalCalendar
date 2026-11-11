@@ -1,11 +1,12 @@
 {
-    "size":  86335298,
-    "notes":  "5.46.3：Gitee单连接下载，避免ProtocolException；外观透明度；资料包修复；收藏即时反馈",
-    "versionName":  "5.46.3",
-    "sha256":  "9927d0d9c66cfb582d16de19593cfaadd3e92eb7eee137ae192a6e3a441c253d",
-    "versionCode":  134,
-    "apkUrl":  "https://github.com/zhenlin147/GalCalendar/releases/download/v5.46.3/GalCalendar-v5.46.3.apk",
-    "apkUrls":  [
-                    "https://github.com/zhenlin147/GalCalendar/releases/download/v5.46.3/GalCalendar-v5.46.3.apk"
-                ]
+ "size": 86335298,
+ "notes": "5.46.3：Gitee单连接下载，避免ProtocolException；显示具体错误；多源APK支持",
+ "versionName": "5.46.3",
+ "sha256": "9927d0d9c66cfb582d16de19593cfaadd3e92eb7eee137ae192a6e3a441c253d",
+ "versionCode": 134,
+ "apkUrl": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.46.3/GalCalendar-v5.46.3.apk",
+ "apkUrls": [
+  "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.46.3/GalCalendar-v5.46.3.apk",
+  "https://github.com/zhenlin147/GalCalendar/releases/download/v5.46.3/GalCalendar-v5.46.3.apk"
+ ]
 }
