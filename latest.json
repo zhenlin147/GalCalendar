@@ -1,12 +1,12 @@
 {
  "size": 86343490,
- "notes": "5.47.0：新增海豹社 29 部作品/111 位角色；☆机翻开关；全局UI透明度与更新源选择",
- "versionName": "5.47.0",
- "sha256": "0fdbd7f33ac22d1ae7a0f0e59f5313cc2d080dd9ce372085bd69b2cd65149a37",
- "versionCode": 136,
- "apkUrl": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.0/GalCalendar-v5.47.0.apk",
+ "notes": "5.47.1：海豹社改用 AZARASHI SOFT；补生日/画师/VNDB ID；☆机翻开关",
+ "versionName": "5.47.1",
+ "sha256": "50e894ebeecc9e2249e57a2c530f7c4d237ac813cd3343f3932014fec29f8ba0",
+ "versionCode": 137,
+ "apkUrl": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.1/GalCalendar-v5.47.1.apk",
  "apkUrls": [
-  "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.0/GalCalendar-v5.47.0.apk",
-  "https://github.com/zhenlin147/GalCalendar/releases/download/v5.47.0/GalCalendar-v5.47.0.apk"
+  "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.1/GalCalendar-v5.47.1.apk",
+  "https://github.com/zhenlin147/GalCalendar/releases/download/v5.47.1/GalCalendar-v5.47.1.apk"
  ]
 }
