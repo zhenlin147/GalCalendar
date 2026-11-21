@@ -1,8 +1,8 @@
 {
- "version": 179,
+ "version": 180,
  "minAppVersionCode": 126,
- "size": 1595686,
- "sha256": "6d75bda2ac986cb2014366b1b3bc1688db6045f1e20888e037199a1c9fdd7264",
- "url": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.46.4/data-pack.zip",
- "notes": "Azurite 39 位角色补 VNDB 角色 ID，头像补充可检索"
+ "size": 1599379,
+ "sha256": "ac8eb0d538f50da5cfcdaf2b426f6100b14a4f106f794296c36022b8bb0565d9",
+ "url": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.0/data-pack.zip",
+ "notes": "新增海豹社 29 部作品/111 位角色；☆机翻开关"
 }
