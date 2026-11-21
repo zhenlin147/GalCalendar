@@ -1,8 +1,8 @@
 {
- "version": 180,
+ "version": 181,
  "minAppVersionCode": 126,
- "size": 1599379,
- "sha256": "ac8eb0d538f50da5cfcdaf2b426f6100b14a4f106f794296c36022b8bb0565d9",
- "url": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.0/data-pack.zip",
- "notes": "新增海豹社 29 部作品/111 位角色；☆机翻开关"
+ "size": 1601169,
+ "sha256": "b47c625fe007f8d3f34e0e54c032335f047c2952b1ad8480008f61f629a2d747",
+ "url": "https://gitee.com/zhenlin147hua/GalCalendar/releases/download/v5.47.1/data-pack.zip",
+ "notes": "海豹社 AZARASHI SOFT；生日/画师/VNDB ID；☆机翻开关"
 }
